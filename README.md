@@ -1,8 +1,10 @@
 # DevGround
 
-## {PROJECT_NAME}
+## DMGPT4
 
-{PROJECT DESCRIPTION} by [DevGround](https://devground.cz/).
+GPT-4 in the role of a dungeon master will take two players on a journey through a short dungeon
+
+Copyright (c) 2023 Ondřej Moravec, [DevGround.cz](https://devground.cz/)
 
 ### Authors
 
@@ -22,10 +24,10 @@ None
 
 ### Installation
 
-Package is available on [PyPI](https://pypi.org/project//{PROJECT_NAME}) and can be installed with pip:
+Package will be available on [PyPI](https://pypi.org/project//DMGPT4) and can be installed with pip:
 
 ```bash
-pip install {PROJECT_NAME}
+pip install DMGPT4
 ```
 
 ### Usage
@@ -33,8 +35,8 @@ pip install {PROJECT_NAME}
 Usage sample:
 
 ```python
-from {PROJECT_NAME} import app
-from {PROJECT_NAME}.models import *
+from DMGPT4 import app
+from DMGPT4.models import *
 
 app.run()
 ```
